@@ -6,4 +6,5 @@ Third change
 
 Git is a version control system that prevents us from having final doc problem
 
-This is a commit that I am not aware of, or that I have forgotten about
+This is a commit that I am not aware of, or that I have forgotten about.
+
