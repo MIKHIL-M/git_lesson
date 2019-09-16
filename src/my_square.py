@@ -1,8 +1,8 @@
-def my_square(x):
+def my_square(y):
 	"""It will takes a vaue and return the squre	
 	
 	uses the ** operator
 	"""
-	return(x ** 2)
+	return(y ** 2)
 
-print(my_square(4))
+print(my_square(42))
