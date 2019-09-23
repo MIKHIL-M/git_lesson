@@ -1,6 +1,7 @@
-# A file used by the collaborator
+# Collaboration
 
-edit made by the owner.
+An edit made by the collaborator.
+>>>>>>> collab_changes
 
 I am a collaborator
 
