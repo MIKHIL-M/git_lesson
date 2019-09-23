@@ -1,7 +1,6 @@
 # Collaboration
 
 An edit made by the collaborator.
->>>>>>> collab_changes
 
 I am a collaborator
 
